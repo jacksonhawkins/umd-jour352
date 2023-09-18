@@ -1,0 +1,12 @@
+body{ 
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+h1{
+    color:rgba(151, 129, 16, 0.978) ;
+}
+
+.callout{
+    background-color: rgb(135, 193, 223);
+}
+header{text-align: center;}
