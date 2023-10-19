@@ -1,8 +1,8 @@
 body{font-family: 'STIX Two Text', serif; color: #000000; text-align: justify; background-color:#8EE3EF;}
-h1{font-family: 'Alegreya bold', serif;font-weight: 2000; font-size: 5em; text-align: center; color:#f46e3e;}
-h2{font-family: 'Alegreya bold'; serif; font-size: 2em;}
-.nav-link{font-size: 1.2em; color: #f46e3e;}
+h1{font-family: 'Alegreya bold', serif;font-weight: 900; font-size: 5.5em; text-align: center; color:#f46e3e;}
+h2{font-family: 'Alegreya bold', serif; font-size: 3.2em; text-align: center; color: #f46e3e; font-weight: bold;}
+h4{font-family:'Alegreya bold', serif; font-weight: bold; font-size: 2.2em;}
+.nav-link{font-size: 1.3em; color: #f46e3e;}
 .nav-item{text-align: center;}
-.nav-items{text-align: right;word-spacing: 10em;}
-p{text-align:right}
-footer{text-align: right;}
+p{text-align:left; font-size: 1.6em;}
+footer{text-align: right}
