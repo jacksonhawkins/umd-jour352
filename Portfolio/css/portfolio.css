@@ -1,4 +1,4 @@
-body{font-family: 'STIX Two Text', serif; color: #000000; background-color:#8EE3EF; font-size: 20px;}
+body{font-family: 'Commissioner', sans-serif; color: #000000; background-color:#8EE3EF; font-size: 20px; font-weight: 400;}
 h1,h2{font-family: 'Alegreya bold', serif; color: #f46e3e;font-weight: bold;}
 h1{font-weight: 900; font-size: 3.5em; text-align: center}
 h2{ font-size: 1.5em;}
@@ -8,16 +8,16 @@ h2{ font-size: 1.5em;}
 footer{text-align: right}
 .background{font-family: 'Alegrya bold', serif; font-size: 3em; text-align: left; color:#f46e3e; font-weight: bold;}
 .goals{font-family: 'Alegrya bold', serif; font-size: 3em; text-align: left; color:#f46e3e;font-weight: bold;}
-.future{font-family:'STIX Two Text', serif; color: #000000; text-align: justify;}
 .song{font-weight: bold;font-size: 1em;color: #f46e3e; text-align: justify; font-family:'Alegreya bold', serif;}
 .homepage{text-align: justify; margin: 3em 0;}
 .job{font-size: 2em; font-weight: bold;}
 .education{font-size: 2.4em; font-weight: bold;}
 .skills{font-size: 2.4em; font-weight: bold;}
 main,section{margin: 3em 0;}
-h3{font-style: italic; font-weight: 700;}
+h3{font-style: italic; font-weight: bold; font-weight: 400;}
 h4{text-align: right;}
-span{display: block; font-style: italic; font-size: .6em;}
+span{display: block; font-style: italic; font-size: .6em; color: #2a2a28;}
 @media(max-width:776px) {
     h4{text-align: left;}}
 .resume p{padding:0 0 0 2em;}
+ul{list-style: none;}
