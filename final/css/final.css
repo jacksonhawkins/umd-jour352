@@ -1,11 +1,19 @@
-body{background-color: #FCBA1A; font-family: 'Hedvig Letters Serif', serif; font-size: 1.5em;}
+body{background-color: #FCBA1A; font-family: 'Hedvig Letters Serif', serif; font-size: 1.8em;}
 h1{font-size: 3.5em;}
 h2{font-size: 2.8em;}
-h3{font-size: 2em; }
-h1,h2,h3{text-align: center; font-family: 'Oswald', sans-serif;}
-section{}
+h3{font-size: 2.3em;}
+h5{font-size: .8em;}
+h1,h2,h3,h5{text-align: center;}
+h1,h2,h3{font-family: 'Oswald', sans-serif;}
 footer{text-align: right; font-size: 20px;}
 .pics{}
 .MacLeft{align-items: flex-start;}
-h5{text-align: center;}
-.nav-link{font-size: 20px;}
+.graphic{
+    margin: 5%;
+    padding:5%;
+    background-color: #121212;
+}
+.graphic,h2,img {margin:5% 0;}
+img{margin:0 auto; display: block;}
+@media(max-width: 576px) {
+    h1{font-size: 2em; font-weight: 700;}}
